@@ -1,6 +1,6 @@
-# Age and Gender Estimation
-This is a Keras implementation of a CNN for estimating age and gender from a face image [1, 2].
-In training, [the IMDB-WIKI dataset](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/) is used.
+# Age-BMI-Gender Estimation
+This is a Tensorflow-Keras implementation of a CNN for estimating visual-BMI, age and gender from a face image.
+In training, [the IMDB-WIKI dataset, especially wiki_crop version dataset is for age-gender model training, while the BMI dataset is for visual-BMI model training].
 
 ###[Log of modification history]
 
